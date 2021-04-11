@@ -26,12 +26,12 @@ export default {
 		releasedBefore:
 			'If the project you want to submit was already released in the past, the amount of changes should be consistent or else it will be rejected.',
 		noPiracy:
-			'Piracy is not allowed in any form. Copyrighted assets usage is not allowed. Free assets such as the ones available on the Unity Assets Store are accepted however original assets are better evaluated. Projects submited for the Port category must not include data files unless they're free to share and works derived from source code leaks will be rejected.',
+			"Piracy is not allowed in any form. Copyrighted assets usage is not allowed. Free assets such as the ones available on the Unity Assets Store are accepted however original assets are better evaluated. Projects submited for the Port category must not include data files unless they're free to share and works derived from source code leaks will be rejected.",
 		paypal: 'You must have a PayPal account to receive money.',
 		splashScreen:
-			'Your homebrew must show the contest splashscreen during its booting process. To easen this process, you can even include it as pic0.png in your final vpk. In this way, the PSVita will automatically show it when launching the bubble from the LiveArea. If you're submitting a plugin, you're requested to mention the the KyûHEN contest in the readme file of your project.',
+			"Your homebrew must show the contest splashscreen during its booting process. To easen this process, you can even include it as pic0.png in your final vpk. In this way, the PSVita will automatically show it when launching the bubble from the LiveArea. If you're submitting a plugin, you're requested to mention the the KyûHEN contest in the readme file of your project.",
 		publicRelease:
-			'You can't share a public build of your project until it gets approved and showcased on our website.',
+			"You can't share a public build of your project until it gets approved and showcased on our website.",
 		openSource:
 			'If your project is based on an open source one, you must respect the license of its original work.',
 		cheats: 'If we catch you cheating, you are automatically excluded from the contest.',
@@ -71,7 +71,7 @@ export default {
 				content1:
 					'The contest will last 2 months, so, until the 27th of May. Through this contest, we want to promote creativity and originality thanks to the two featured Game categories. We also joined forces with a professional in the gaming industry in order to help amateur developers grow up and improve their skills thanks to the suggestions an expert in the sector can give.',
 				content2:
-					'During the past years, we've seen an inevitable decrease in interest towards homebrew scenes due to the popularity of smartphones and due to security measures strengthening generation after generation. This contest, with the involvement of Wololo, PSX-Place and PlayStationHaX, is the occasion to light up that lost fire in our community and hopefully raise the interest towards homebrew again. KyûHEN is born from the will of the community to have an homebrew contest after the recent improvements in the scene, and we are turning it into reality. But for it to be successful, we need you!',
+					"During the past years, we've seen an inevitable decrease in interest towards homebrew scenes due to the popularity of smartphones and due to security measures strengthening generation after generation. This contest, with the involvement of Wololo, PSX-Place and PlayStationHaX, is the occasion to light up that lost fire in our community and hopefully raise the interest towards homebrew again. KyûHEN is born from the will of the community to have an homebrew contest after the recent improvements in the scene, and we are turning it into reality. But for it to be successful, we need you!",
 			},
 			process: {
 				title: 'The Process',
@@ -101,7 +101,7 @@ export default {
 				amountCollected: '455 $',
 				contentEnd: ' thanks to our sponsors). This will be divided amongst the 4 categories as shown below.',
 				conclusion:
-					'We'll award three chosen projects per category and the distribution for the prizes will be calculated depending on the amount of entries in each category.',
+					"We'll award three chosen projects per category and the distribution for the prizes will be calculated depending on the amount of entries in each category.",
 			},
 			rules: {
 				title: 'The Rules',
